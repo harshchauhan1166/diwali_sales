@@ -1,1 +1,1 @@
-# diwali_sales
+Employed Python libraries like Pandas, NumPy,  for data preprocessing, feature engineering, and model building, matplotlib seaborn is used for visualization. Improved accuracy with cross-validation and hyperparameter tuning techniques.
